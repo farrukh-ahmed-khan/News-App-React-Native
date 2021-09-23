@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792057157432",
+    "project_id": "native-forms",
+    "storage_bucket": "native-forms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792057157432:android:f35ebf91ebee2ca89e53cd",
+        "android_client_info": {
+          "package_name": "com.forms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792057157432-beqifhva9uri3hn7s0cfhlmso7lum5j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWXcd9kyJb26G7r6nymCuwm8xd1VaGqto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792057157432-beqifhva9uri3hn7s0cfhlmso7lum5j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
